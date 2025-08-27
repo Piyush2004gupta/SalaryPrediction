@@ -1,13 +1,27 @@
-Housepricepredict
- House Price Prediction using Multiple Linear Regression 🏡📊
-Today, I implemented a simple yet powerful machine learning approach — Multiple Linear Regression — to predict house prices based on features like area and number of bedrooms.
-🔢 Why Multiple Linear Regression?
- It helps capture the relationship between multiple factors influencing price and provides a predictive equation to estimate house value.
-✅ Covered in today's project:
- ✔ Preparing the dataset
- ✔ Building and training the linear model
- ✔ Evaluating performance with MAE, MSE, and R² Score
- ✔ Predicting price for new house data
+This project predicts the salary of professionals based on factors such as experience, education, job role, and skill set.
+It demonstrates the use of Supervised Machine Learning to solve real-world regression problems.
+
+📌 Features
+
+Data preprocessing (handling missing values, encoding categorical variables, scaling).
+
+Exploratory Data Analysis (EDA) with visualizations of salary trends.
+
+Machine Learning models used:
+
+Linear Regression
+
+Ridge & Lasso Regression
+
+Decision Tree Regressor
+
+Random Forest Regressor
+
+Gradient Boosting (XGBoost, AdaBoost)
+
+Hyperparameter tuning for improved accuracy.
+
+Deployment-ready (Flask/Streamlit).
 
 
 
